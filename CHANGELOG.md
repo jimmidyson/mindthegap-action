@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.2.4 (2025-02-19)
+
+<!-- Release notes generated using configuration in .github/release.yaml at main -->
+
+## What's Changed
+### Other Changes
+* build(deps-dev): Bump braces from 3.0.2 to 3.0.3 by @dependabot in https://github.com/mesosphere/mindthegap-action/pull/13
+* build(deps): Bump @octokit/request-error and @actions/github by @dependabot in https://github.com/mesosphere/mindthegap-action/pull/14
+* build(deps): Bump @octokit/request from 8.4.0 to 8.4.1 by @dependabot in https://github.com/mesosphere/mindthegap-action/pull/15
+* build(deps): Bump @octokit/plugin-paginate-rest from 9.2.1 to 9.2.2 by @dependabot in https://github.com/mesosphere/mindthegap-action/pull/16
+
+
+**Full Changelog**: https://github.com/mesosphere/mindthegap-action/compare/v1.2.3...v1.2.4
+
 ## 1.2.3 (2023-07-20)
 
 <!-- Release notes generated using configuration in .github/release.yaml at main -->
